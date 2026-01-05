@@ -15,17 +15,19 @@ Technologies Used:
 
 HTML
 CSS
-Live Website: (Add GitHub Pages link here)
+Live Website: 
 
-Project Documents: Project Report (Word): (https://docs.google.com/document/d/15u56UmNtYdf5e9gyPrVeT4eFfjZe0wU3/edit?usp=drive_link&ouid=111066214899703733753&rtpof=true&sd=true)
+Project Documents:
+Project Report (Word): (https://docs.google.com/document/d/15u56UmNtYdf5e9gyPrVeT4eFfjZe0wU3/edit?usp=drive_link&ouid=111066214899703733753&rtpof=true&sd=true)
 
 Data File (Excel): (https://docs.google.com/spreadsheets/d/14CgQKV-od4ttYz0Wm0AhW2dSxH5luoWz/edit?usp=drive_link&ouid=111066214899703733753&rtpof=true&sd=true)
 
 Presentation Slides (PowerPoint): (https://docs.google.com/presentation/d/1yhD4GXtpCAHtBQu35YVjYfb1skxcXHab/edit?usp=drive_link&ouid=111066214899703733753&rtpof=true&sd=true)
 
-Animated vedio: https://drive.google.com/file/d/1M_2mhyR2Xu11BNRh5Cb26WdElcvZMSPA/view?usp=drive_link
+Animated vedio: https://drive.google.com/file/d/1V3zkZ0zIT1ns7PLlkv06_8N3Q-ZISWz0/view?usp=drive_link
 
-Group Members: Mirha Tayyab
+Group Members:
+Mirha Tayyab
 Tahreem Imran
 Hamayal Ansari
 Syed Abbas Haidar
